@@ -364,4 +364,4 @@ datacamp-fast-food-sales-prediction/
 
 ## Author
 
-**Mandi Nethma**
+**Amandi Hiyare**
