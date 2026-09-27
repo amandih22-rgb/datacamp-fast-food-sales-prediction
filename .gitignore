@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# DataCamp data files
+data/*.csv
+
+# macOS system files
+.DS_Store
