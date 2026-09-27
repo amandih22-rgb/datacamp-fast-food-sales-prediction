@@ -2,12 +2,6 @@
 # Predict Future Sales of Fast-Food Menu Items
 # 04 - Model evaluation 
 
-
-# Predict Future Sales of Fast-Food Menu Items
-# 04 - Model Evaluation
-
-
-# ---------------------------------------------------------
 # Load the data
 
 test <- read.csv(
