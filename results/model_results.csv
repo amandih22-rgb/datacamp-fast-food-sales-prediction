@@ -1,0 +1,4 @@
+"model","adjusted_r_squared"
+"Model 1 - Discount only",0.410997730457762
+"Model 2 - Numeric and calendar",0.599151163495788
+"Model 3 - Full model",0.851598740232678
